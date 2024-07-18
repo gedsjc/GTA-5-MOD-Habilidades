@@ -1,6 +1,6 @@
 >>Comando para habilitar painel de hablidades<<<
 
-Modo Invencivel, minição e armas e infinitas e muito mais.
+Modo Invencivel, munição e armas e infinitas e muito mais.
 
 >>>> baixe o arquivo e coloque no diretorio do jogo.
 
